@@ -1,0 +1,8 @@
+# High Level gitignore to help ignore build files and build project folders
+
+[iI]OSBuild/
+[Bb]uild/
+[Aa]ndroidBuild/
+[Vv]irtualRealityBuild/
+*.DS_Store
+.DS_Store
