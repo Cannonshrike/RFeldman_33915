@@ -72,7 +72,7 @@ Unity has great resources for their [Unity Learn platform](https://learn.unity.c
 >- [x] Create your Unity3D Learning Plan that allocates towards 30-40 hours of effort
 >- [x] GitHub Project Generation from Class Template (John will help with this setup)
 >- [ ] 1. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate Unity Terrain System*
->- [ ] 2. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate [Unity 3D Game Kit Lite](https://learn.unity.com/project/3d-game-kit-lite) Control System*
+>- [x] 2. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate [Unity 3D Game Kit Lite](https://learn.unity.com/project/3d-game-kit-lite) Control System*
 >- [ ] 3. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate custom audio creation and [audio mixers](https://learn.unity.com/project/beginning-audio-in-unity)*
 >- [ ] 4. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate Probuilder and Polybrush for environment grey-boxing*
 >- [ ] 1. Optional Medium Stake Assignment: *Portfolio Content: audio clip(s) showcasing audio work*
