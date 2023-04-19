@@ -77,4 +77,6 @@
 *.meta linguist-generated
 *.prefab linguist-generated
 *.unity linguist-generated
-UnityMysticalEMEnvironmentAssets3DGamekitLiteScenes_TemplateSceneLightingData.asset filter=lfs diff=lfs merge=lfs -text
+
+/Unity/MysticalE/MEnvironment/Assets/3DGamekitLite/Scenes/_TemplateScene/LightingData.asset filter=lfs diff=lfs merge=lfs -text
+
