@@ -60,8 +60,8 @@ Unity has great resources for their [Unity Learn platform](https://learn.unity.c
 >- [x] Weekly Exit Ticket: *Complete 12 of them*
 >- [x] GitHub Profile Setup
 >- [x] PULSE Agreement Check-in Num.1: *Met 1-23-2023*
->- [x] PULSE Agreement Check-in Num.2: *Look to meet by mid-March*
->- [x] PULSE Agreement Check-in Num.3: *1-2 weeks before end of the semester*
+>- [x] PULSE Agreement Check-in Num.2: *Met 4-3-2023*
+>- [x] PULSE Agreement Check-in Num.3: *Met 4-17-2023*
 >- [x] Student Questionnaire
 >- [x] Unity Account Setup and Forum Registration: *One Question and/or post to the Unity Forums*
 >- [x] GitHub Training: Pick one: 1.)[Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), 2.) [Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts), 3.) [Flow Model](https://docs.github.com/en/get-started/quickstart/github-flow)
