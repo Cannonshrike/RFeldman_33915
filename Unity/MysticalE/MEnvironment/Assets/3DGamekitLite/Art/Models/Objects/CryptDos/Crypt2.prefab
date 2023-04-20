@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: -5128497119654134265}
   - component: {fileID: 3101045555586055761}
   - component: {fileID: -9210455763664339410}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: roof_house_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: -5164369788890129363}
   - component: {fileID: -5754489408609220592}
   - component: {fileID: -1827299482618712755}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_column_postavka1_low.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -177,7 +177,7 @@ GameObject:
   - component: {fileID: 3747417366422782435}
   - component: {fileID: -3874611280663062176}
   - component: {fileID: -4676837087557143612}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front2_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 7995103719516820417}
   - component: {fileID: -4749353094743724524}
   - component: {fileID: -8090982574982494447}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_column_postavka1_low.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -343,7 +343,7 @@ GameObject:
   - component: {fileID: -7943906341219898760}
   - component: {fileID: -7702665450602162174}
   - component: {fileID: -3480455336345572047}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni1_low.011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -426,7 +426,7 @@ GameObject:
   - component: {fileID: -7161616939781058836}
   - component: {fileID: -262194241925751511}
   - component: {fileID: -1894188102682223024}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni2_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -509,7 +509,7 @@ GameObject:
   - component: {fileID: -41038504172561063}
   - component: {fileID: 7048506258314308174}
   - component: {fileID: 2259763770335584713}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni2_low.009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -592,7 +592,7 @@ GameObject:
   - component: {fileID: -3207717500880107178}
   - component: {fileID: -8192777872019578307}
   - component: {fileID: -559594450172542729}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_door_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -675,7 +675,7 @@ GameObject:
   - component: {fileID: -3582144398565469162}
   - component: {fileID: -7416230256773005448}
   - component: {fileID: 6360854703868785296}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: side_down_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -758,7 +758,7 @@ GameObject:
   - component: {fileID: -1028015815598703537}
   - component: {fileID: -2492088197581023628}
   - component: {fileID: -7012056241073213324}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni1_low.010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -841,7 +841,7 @@ GameObject:
   - component: {fileID: -7427851360713395526}
   - component: {fileID: -5825897042808305773}
   - component: {fileID: -7383884703003441847}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: roof_balka_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -924,7 +924,7 @@ GameObject:
   - component: {fileID: 586605535892856227}
   - component: {fileID: -8056610787176055884}
   - component: {fileID: -5877101661198402955}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: back_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1007,7 +1007,7 @@ GameObject:
   - component: {fileID: 7385113636914203204}
   - component: {fileID: -2180883618000413518}
   - component: {fileID: -945633450563719769}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_column_postavka2_low.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1090,7 +1090,7 @@ GameObject:
   - component: {fileID: -208384008894851823}
   - component: {fileID: -8952355980200209473}
   - component: {fileID: -8645355056424163216}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_door_handle_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1173,7 +1173,7 @@ GameObject:
   - component: {fileID: -1374295088005096503}
   - component: {fileID: -5152441272670961975}
   - component: {fileID: 4094525929270602477}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni2_low.012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1256,7 +1256,7 @@ GameObject:
   - component: {fileID: 7200068955446871258}
   - component: {fileID: 957555603304130252}
   - component: {fileID: -3373049704951047052}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front1_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1339,7 +1339,7 @@ GameObject:
   - component: {fileID: -3815087281375291855}
   - component: {fileID: 1430669503712336167}
   - component: {fileID: -3184723247588156880}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni1_low.009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1422,7 +1422,7 @@ GameObject:
   - component: {fileID: 2059367482532507393}
   - component: {fileID: 1596733010051727912}
   - component: {fileID: -2682503183427317819}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: side_column_low.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1505,7 +1505,7 @@ GameObject:
   - component: {fileID: -7416721959981209977}
   - component: {fileID: -6046087025607997344}
   - component: {fileID: 2913182307050676234}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni3_low.008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1588,7 +1588,7 @@ GameObject:
   - component: {fileID: 7573897473628110627}
   - component: {fileID: -377753390420697516}
   - component: {fileID: -6310127838090558492}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: roof_front_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1671,7 +1671,7 @@ GameObject:
   - component: {fileID: 6782271130038250138}
   - component: {fileID: -8577593145297325894}
   - component: {fileID: 2128199261836210831}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_column_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1754,7 +1754,7 @@ GameObject:
   - component: {fileID: -7155001266454659305}
   - component: {fileID: -5026333806534738828}
   - component: {fileID: 4603225629571829864}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: side_balka_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1837,7 +1837,7 @@ GameObject:
   - component: {fileID: -724440834115456075}
   - component: {fileID: -5469480278892623137}
   - component: {fileID: 8801737092718410646}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: roof_krest_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1920,7 +1920,7 @@ GameObject:
   - component: {fileID: -3962079384680588497}
   - component: {fileID: 3950883390968895964}
   - component: {fileID: -948542238828205990}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: roof_tiles_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2003,7 +2003,7 @@ GameObject:
   - component: {fileID: 3191896935539556631}
   - component: {fileID: -6116202590955988417}
   - component: {fileID: -8270972053081767795}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni1_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2086,7 +2086,7 @@ GameObject:
   - component: {fileID: -2802553484891068788}
   - component: {fileID: 6765488058781580273}
   - component: {fileID: 7350123752432832909}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni1_low.008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2169,7 +2169,8 @@ GameObject:
   - component: {fileID: 906899891577867606}
   - component: {fileID: 948015265202205710}
   - component: {fileID: -3364217780740507539}
-  m_Layer: 0
+  - component: {fileID: -4845593138857893510}
+  m_Layer: 16
   m_Name: Crypt2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2185,7 +2186,7 @@ Transform:
   m_GameObject: {fileID: 3686860566026534359}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 586605535892856227}
@@ -2284,6 +2285,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3686860566026534359}
   m_Mesh: {fileID: 0}
+--- !u!65 &-4845593138857893510
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3686860566026534359}
+  m_Material: {fileID: 13400000, guid: 9f51f2e441eb7664088c53e205f66925, type: 2}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4.5, y: 4.5, z: 4}
+  m_Center: {x: 7.6, y: 2, z: -3.5}
 --- !u!1 &3958397473618171333
 GameObject:
   m_ObjectHideFlags: 0
@@ -2295,7 +2317,7 @@ GameObject:
   - component: {fileID: 7011366951882269990}
   - component: {fileID: 2670373204127298469}
   - component: {fileID: 4306853300431079402}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_column_sphere_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2378,7 +2400,7 @@ GameObject:
   - component: {fileID: -3567488098306012105}
   - component: {fileID: -4940955275918756171}
   - component: {fileID: -12024950716030465}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: tower_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2461,7 +2483,7 @@ GameObject:
   - component: {fileID: -7003659419275184063}
   - component: {fileID: -3233901980306394991}
   - component: {fileID: 2605614697951941152}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_column_postavka2_low.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2544,7 +2566,7 @@ GameObject:
   - component: {fileID: 2778860427310401291}
   - component: {fileID: -5593445818732002402}
   - component: {fileID: 4933390520721681286}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: side_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2627,7 +2649,7 @@ GameObject:
   - component: {fileID: -1891413628365252868}
   - component: {fileID: 8286833003606868706}
   - component: {fileID: 5425327638533544798}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: tower_column_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2710,7 +2732,7 @@ GameObject:
   - component: {fileID: -2271502847731017999}
   - component: {fileID: 3631933210468459122}
   - component: {fileID: 8442510506162454399}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2793,7 +2815,7 @@ GameObject:
   - component: {fileID: -1779251538134504289}
   - component: {fileID: -2772263145081311815}
   - component: {fileID: -6981298467781020670}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni2_low.011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2876,7 +2898,7 @@ GameObject:
   - component: {fileID: -351244334930457862}
   - component: {fileID: -3401576597128849325}
   - component: {fileID: -1811990347193414025}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni2_low.010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2959,7 +2981,7 @@ GameObject:
   - component: {fileID: -8536835109681824202}
   - component: {fileID: 1143198371941169831}
   - component: {fileID: 6872325866048255300}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni3_low.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3042,7 +3064,7 @@ GameObject:
   - component: {fileID: -7240174976910839749}
   - component: {fileID: -3731429380013293911}
   - component: {fileID: -4250428410898248980}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni3_low.007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3125,7 +3147,7 @@ GameObject:
   - component: {fileID: 4478743443159019788}
   - component: {fileID: 721828871962194228}
   - component: {fileID: 3853328017107372316}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_column_low.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3208,7 +3230,7 @@ GameObject:
   - component: {fileID: 1361832345605179713}
   - component: {fileID: 2725459026524737636}
   - component: {fileID: 3200799945474486095}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: roof_back_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3291,7 +3313,7 @@ GameObject:
   - component: {fileID: 1305949368425999889}
   - component: {fileID: -5443999006992030481}
   - component: {fileID: 5037260276157594736}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni3_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3374,7 +3396,7 @@ GameObject:
   - component: {fileID: 835349560780152589}
   - component: {fileID: -4538858758909158648}
   - component: {fileID: -8693091027216676858}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni1_low.012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3457,7 +3479,7 @@ GameObject:
   - component: {fileID: -7758686001495355789}
   - component: {fileID: 5069473993642979253}
   - component: {fileID: -2354663608567180426}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_stupeni2_low.008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3540,7 +3562,7 @@ GameObject:
   - component: {fileID: -7671794139938879076}
   - component: {fileID: -6042262788316328426}
   - component: {fileID: 698259596208763790}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: side_column_low.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3623,7 +3645,7 @@ GameObject:
   - component: {fileID: 6597193266648320301}
   - component: {fileID: 2701038944425601385}
   - component: {fileID: 3402047730253428892}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: front_column_sphere_low.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
