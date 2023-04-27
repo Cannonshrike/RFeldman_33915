@@ -82,7 +82,7 @@ Unity has great resources for their [Unity Learn platform](https://learn.unity.c
 >
 >**Additional High Stake Assignments**
 >
->- [ ] End Project GitHub Pull Request Submission
+>- [x] End Project GitHub Pull Request Submission
 >- [x] End Project Unity Project compiles and runs on device
 >- [x] End project has zero errors upon opening in Unity
 >- [x] Completion of your Unity Learning Plan with Unity Completion Evidence
