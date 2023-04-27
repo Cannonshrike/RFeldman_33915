@@ -73,20 +73,20 @@ Unity has great resources for their [Unity Learn platform](https://learn.unity.c
 >- [x] GitHub Project Generation from Class Template (John will help with this setup)
 >- [x] 1. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate Unity Terrain System*
 >- [x] 2. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate [Unity 3D Game Kit Lite](https://learn.unity.com/project/3d-game-kit-lite) Control System*
->- [ ] 3. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate custom audio creation and [audio mixers](https://learn.unity.com/project/beginning-audio-in-unity)*
+>- [x] 3. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate custom audio creation and [audio mixers](https://learn.unity.com/project/beginning-audio-in-unity)*
 >- [x] 4. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate Probuilder and Polybrush for environment grey-boxing*
->- [ ] 1. Optional Medium Stake Assignment: *Portfolio Content: audio clip(s) showcasing audio work*
+>- [x] 1. Optional Medium Stake Assignment: *Portfolio Content: audio clip(s) showcasing audio work*
 >- [x] 2. Optional Medium Stake Assignment: *Portfolio Content: terrain work showcasing concept art to final*
 >- [x] 3. Optional Medium Stake Assignment: *Portfolio Content: utilizing Image AI for co-creation concept art*
->- [ ] 4. Optional Medium Stake Assignment: *Portfolio Content: isolate a smaller area and generate high quality URP or dabble in HDRP lighting renders*
+>- [x] 4. Optional Medium Stake Assignment: *Portfolio Content: isolate a smaller area and generate high quality URP or dabble in HDRP lighting renders*
 >
 >**Additional High Stake Assignments**
 >
 >- [ ] End Project GitHub Pull Request Submission
->- [ ] End Project Unity Project compiles and runs on device
->- [ ] End project has zero errors upon opening in Unity
->- [ ] Completion of your Unity Learning Plan with Unity Completion Evidence
->- [ ] GitHub Project board utilization
+>- [x] End Project Unity Project compiles and runs on device
+>- [x] End project has zero errors upon opening in Unity
+>- [x] Completion of your Unity Learning Plan with Unity Completion Evidence
+>- [x] GitHub Project board utilization
 >- [ ] One [Unity 2022-2023 Unite Presentation](https://unity.com/events/unite), or one [Unity Live Events](https://unity.com/events-hub), or one [East Coast Gaming Conference](https://ecgconf.com/), or something else similar!
 >
 >**Possible Bonus Opportunities**
