@@ -1,6 +1,6 @@
 # GAME 395 CRN: 33915
 
-This is a template repository setup by John Shull on behalf of **NAME**
+This is a template repository setup by John Shull on behalf of Ryan Feldman.
 
 ## Student Project Repository
 
@@ -13,3 +13,8 @@ There will be multiple times you will be updating your repository for review and
 ## Notes
 
 Feel free to update and use this readme in any format as you see fit. As you complete items that are to align with your grading agreement update the documentation and provide support/reference to those completion status. This is an ever-evolving process and this will be your repository when it's all done - so make it reflect that!
+
+## Project Visualization
+
+Generated via a [GitHubNext Project](https://github.com/githubocto/repo-visualizer) using GitHub Actions!
+![Visualization of the codebase](./Project-output-diagram.svg)
