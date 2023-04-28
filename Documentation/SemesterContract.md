@@ -17,8 +17,8 @@ This is your contract, also known as a PULSE Check document. **P**rogressing **U
 ## PULSE Agreement Check-ins
 
 - [x] [Beginning of Semester](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/2CcvByaFsUKqSfx7ddWzQg2?anonymous) (1-23-2023)
-- [x] [Middle of Semester](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/rCmLINcNl0aohXVYtBHLeA2?anonymous) (7-9 weeks)
-- [ ] [End of Semester](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/BlmvMIg9Ok-O9LuKH-N9Tw2?anonymous) (14-16 weeks)
+- [x] [Middle of Semester](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/rCmLINcNl0aohXVYtBHLeA2?anonymous) (7-9 weeks) (April 3rd, 2023)
+- [x] [End of Semester](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/BlmvMIg9Ok-O9LuKH-N9Tw2?anonymous) (14-16 weeks) (April 17th, 2023)
 
 ## Project Idea
 
@@ -57,11 +57,11 @@ Unity has great resources for their [Unity Learn platform](https://learn.unity.c
 
 >**Low Stake Assignments**
 >
->- [ ] Weekly Exit Ticket: *Complete 12 of them*
+>- [x] Weekly Exit Ticket: *Complete 12 of them*
 >- [x] GitHub Profile Setup
 >- [x] PULSE Agreement Check-in Num.1: *Met 1-23-2023*
->- [x] PULSE Agreement Check-in Num.2: *Look to meet by mid-March*
->- [ ] PULSE Agreement Check-in Num.3: *1-2 weeks before end of the semester*
+>- [x] PULSE Agreement Check-in Num.2: *Met 4-3-2023*
+>- [x] PULSE Agreement Check-in Num.3: *Met 4-17-2023*
 >- [x] Student Questionnaire
 >- [x] Unity Account Setup and Forum Registration: *One Question and/or post to the Unity Forums*
 >- [x] GitHub Training: Pick one: 1.)[Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), 2.) [Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts), 3.) [Flow Model](https://docs.github.com/en/get-started/quickstart/github-flow)
@@ -71,22 +71,22 @@ Unity has great resources for their [Unity Learn platform](https://learn.unity.c
 >
 >- [x] Create your Unity3D Learning Plan that allocates towards 30-40 hours of effort
 >- [x] GitHub Project Generation from Class Template (John will help with this setup)
->- [ ] 1. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate Unity Terrain System*
->- [ ] 2. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate [Unity 3D Game Kit Lite](https://learn.unity.com/project/3d-game-kit-lite) Control System*
->- [ ] 3. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate custom audio creation and [audio mixers](https://learn.unity.com/project/beginning-audio-in-unity)*
->- [ ] 4. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate Probuilder and Polybrush for environment grey-boxing*
->- [ ] 1. Optional Medium Stake Assignment: *Portfolio Content: audio clip(s) showcasing audio work*
->- [ ] 2. Optional Medium Stake Assignment: *Portfolio Content: terrain work showcasing concept art to final*
->- [ ] 3. Optional Medium Stake Assignment: *Portfolio Content: utilizing Image AI for co-creation concept art*
->- [ ] 4. Optional Medium Stake Assignment: *Portfolio Content: isolate a smaller area and generate high quality URP or dabble in HDRP lighting renders*
+>- [x] 1. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate Unity Terrain System*
+>- [x] 2. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate [Unity 3D Game Kit Lite](https://learn.unity.com/project/3d-game-kit-lite) Control System*
+>- [x] 3. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate custom audio creation and [audio mixers](https://learn.unity.com/project/beginning-audio-in-unity)*
+>- [x] 4. Unity Game Kit Pattern Breakdown: *Utilize/Demonstrate Probuilder and Polybrush for environment grey-boxing*
+>- [x] 1. Optional Medium Stake Assignment: *Portfolio Content: audio clip(s) showcasing audio work*
+>- [x] 2. Optional Medium Stake Assignment: *Portfolio Content: terrain work showcasing concept art to final*
+>- [x] 3. Optional Medium Stake Assignment: *Portfolio Content: utilizing Image AI for co-creation concept art*
+>- [x] 4. Optional Medium Stake Assignment: *Portfolio Content: isolate a smaller area and generate high quality URP or dabble in HDRP lighting renders*
 >
 >**Additional High Stake Assignments**
 >
->- [ ] End Project GitHub Pull Request Submission
->- [ ] End Project Unity Project compiles and runs on device
->- [ ] End project has zero errors upon opening in Unity
->- [ ] Completion of your Unity Learning Plan with Unity Completion Evidence
->- [ ] GitHub Project board utilization
+>- [x] End Project GitHub Pull Request Submission
+>- [x] End Project Unity Project compiles and runs on device
+>- [x] End project has zero errors upon opening in Unity
+>- [x] Completion of your Unity Learning Plan with Unity Completion Evidence
+>- [x] GitHub Project board utilization
 >- [ ] One [Unity 2022-2023 Unite Presentation](https://unity.com/events/unite), or one [Unity Live Events](https://unity.com/events-hub), or one [East Coast Gaming Conference](https://ecgconf.com/), or something else similar!
 >
 >**Possible Bonus Opportunities**
